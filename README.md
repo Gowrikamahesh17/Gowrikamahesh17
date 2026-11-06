@@ -75,50 +75,11 @@ My earlier MOFQuantumNet case study found that simple Random Forest and k-NN bas
 
 ## 🛠️ My Stack
 
-**Generative and Agentic AI**<br/>
-<img src="https://img.shields.io/badge/Python-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=python" alt="Python"/>
-<img src="https://img.shields.io/badge/LangGraph-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/RAG-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="RAG"/>
-<img src="https://img.shields.io/badge/ChromaDB-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/FAISS-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Gemini-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=googlegemini" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Llama%203.1-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=meta" alt="Llama 3.1"/>
-<img src="https://img.shields.io/badge/GPT--4o--mini-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=openai" alt="GPT-4o-mini"/>
-<img src="https://img.shields.io/badge/Ollama-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=ollama" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=huggingface" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/MCP-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="MCP"/>
+<div align="center">
 
-**Machine Learning**<br/>
-<img src="https://img.shields.io/badge/scikit--learn-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=scikitlearn" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/XGBoost-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/TensorFlow-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=tensorflow" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=pytorch" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/PyTorch%20Geometric-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=pyg" alt="PyTorch Geometric"/>
-<img src="https://img.shields.io/badge/Fairlearn-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="Fairlearn"/>
-<img src="https://img.shields.io/badge/SHAP-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="SHAP"/>
-<img src="https://img.shields.io/badge/LIME-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="LIME"/>
+<img src="./assets/gowrika-stack.svg" alt="My stack: Python, SQL, Git, LangGraph, RAG, Gemini, PyTorch, TensorFlow, scikit-learn, RDKit, Snowflake, PySpark, dbt, BigQuery, Docker, GitHub Actions, FastAPI, Streamlit" width="100%"/>
 
-**Scientific and Chemical Data**<br/>
-<img src="https://img.shields.io/badge/RDKit-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="RDKit"/>
-<img src="https://img.shields.io/badge/SMILES-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="SMILES"/>
-<img src="https://img.shields.io/badge/ChemBERTa-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="ChemBERTa"/>
-<img src="https://img.shields.io/badge/Molecular%20Similarity-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3" alt="Molecular Similarity"/>
-
-**Data and Platforms**<br/>
-<img src="https://img.shields.io/badge/SQL-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=mysql" alt="SQL"/>
-<img src="https://img.shields.io/badge/Snowflake-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=snowflake" alt="Snowflake"/>
-<img src="https://img.shields.io/badge/Palantir%20Foundry-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=palantir" alt="Palantir Foundry"/>
-<img src="https://img.shields.io/badge/PySpark-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=apachespark" alt="PySpark"/>
-<img src="https://img.shields.io/badge/dbt-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=dbt" alt="dbt"/>
-<img src="https://img.shields.io/badge/BigQuery-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=googlebigquery" alt="BigQuery"/>
-
-**Tools and Workflow**<br/>
-<img src="https://img.shields.io/badge/Git-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=git" alt="Git"/>
-<img src="https://img.shields.io/badge/Docker-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=docker" alt="Docker"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=githubactions" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/FastAPI-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=fastapi" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-701A3D?style=for-the-badge&labelColor=10070C&logoColor=F8F0F3&logo=streamlit" alt="Streamlit"/>
+</div>
 
 ---
 
