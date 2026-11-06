@@ -96,7 +96,7 @@ My earlier MOFQuantumNet case study found that simple Random Forest and k-NN bas
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/701A3D/gowrikamahesh17" alt="GitHub contribution graph" width="100%"/>
+<img src="./assets/contributions.svg" alt="GitHub contribution graph" width="100%"/>
 
 <br/><br/>
 
