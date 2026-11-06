@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="gmf-title">
+  <title id="gmf-title">Gowrika Mahesh footer</title>
+  <defs>
+    <linearGradient id="gmf-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="gmf-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#gmf-bg)"/>
+  <rect x="200" y="38" width="800" height="2" fill="url(#gmf-line)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="76" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#F8F0F3">Thanks for visiting</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4" fill="#C77B9B">GOWRIKA MAHESH</text>
+</svg>
